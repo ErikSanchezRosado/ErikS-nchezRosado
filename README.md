@@ -6,7 +6,7 @@ Hola, Me presento, mi nombre es Erik Sánchez, tengo 49 años y soy de Mérida Y
 
 # Pasatiempos Favoritos y Actividades
 Entre mis pasatiempos favoritos, primero es estar con la familia y aprovechar todo el tiempo libre que tenga con ellos, y entre mis actividades diarias, me gusta la investigación y lectura sobre todo lo que sea tecnologia, me encanta ver como día a día todo se va actualizando.
-Tambien me dedico a dar clases de Cardio y Zumba con mi esposa, eso aprevecho para incluir el ejercicio entre mis actividades diarias.
+Tambien me dedico a dar clases de Cardio y Zumba con mi esposa ., eso aprevecho para incluir el ejercicio entre mis actividades diarias.
 
 # Metas a Futuro
 Entre mis metas a futuro estan el aprender a programar y utilizar los programas con fluidez, siempre
