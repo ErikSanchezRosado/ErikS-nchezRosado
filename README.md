@@ -14,4 +14,4 @@ Tambien me dedico a dar clases de Cardio y Zumba con mi esposa ., eso aprevecho 
 
 # Metas a Futuro
 Entre mis metas a futuro estan el aprender a programar y utilizar los programas con fluidez, siempre
-conel objetivo de crecer.
+conel objetivo de crecer y ser cada dia mejor.
